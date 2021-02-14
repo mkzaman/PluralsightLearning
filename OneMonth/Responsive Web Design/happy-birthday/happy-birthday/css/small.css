@@ -1,0 +1,14 @@
+.container{
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+
+.header-image img{
+  border-radius: 0px;
+}
+
+aside.right, aside.left{
+  text-align: center;
+  float: inherit;
+}
